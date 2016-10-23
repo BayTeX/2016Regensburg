@@ -12,5 +12,5 @@
 
 * Klaus Neudecker, *PDFLaTeX aus der Datenbank: Die Straßenverzeichnisse der Stadt Regensburg*
 * Oliver Rath, *Asciidoc, LibreOffice, LaTeX - Einer für alle, alle für einen*
-* Harald Koenig, *XML setzen mit ConTeXt: Vom (CEWE) Fotobuch zum PDF*
- 
+* Harald König, *XML setzen mit ConTeXt: Vom (CEWE) Fotobuch zum PDF*
+
